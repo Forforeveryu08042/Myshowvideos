@@ -1,0 +1,33 @@
+# Maven
+target/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Runtime upload directory
+show_videos_dev/
+
+# Claude
+.claude/
+
+# Temp
+*.tmp
+*.bak
