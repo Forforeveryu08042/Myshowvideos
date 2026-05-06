@@ -234,8 +234,3 @@ git clone https://github.com/RAOE/show-videos.git --depth=1
 </table>
 </br>
 
-<h2>写在最后的话</h2>
-借鉴或参考请先联系作者(986771570@qq.com)，
-欢迎Star或Fork，
-您的star和Fork是对作品的认同与肯定，感谢！
-
